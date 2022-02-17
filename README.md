@@ -1,5 +1,4 @@
-# 👩🏻‍💻  HaYeon Jo
-## ㅤ
+## 👩🏻‍💻  HaYeon Jo
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYeonJo21&show_icons=true&theme=moltack)
