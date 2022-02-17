@@ -1,7 +1,7 @@
 # 👩🏻‍💻  HaYeon Jo
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYeonJo21&show_icons=true&theme=moltack) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayeonJo21)](https://github.com/HayeonJo21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayeonJo21)](https://github.com/HayeonJo21/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYeonJo21&show_icons=true&theme=moltack) 
 
 <br/>
 
