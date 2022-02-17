@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYeonJo21&show_icons=true&theme=moltack)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayeonJo21)](https://github.com/HayeonJo21/github-readme-stats)
+
 <br/>
 
 # 🛠 Tech Stack
@@ -17,5 +19,3 @@
 | IDEs/Editors | <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"/><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white"/><img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/><img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"/> |
 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayeonJo21)](https://github.com/HayeonJo21/github-readme-stats)
