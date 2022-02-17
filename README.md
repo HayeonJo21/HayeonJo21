@@ -1,14 +1,14 @@
-## 👩🏻‍💻  HaYeon Jo
+# 👩🏻‍💻  HaYeon Jo
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYeonJo21&show_icons=true&theme=moltack)
 
 <br/>
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <span>
-# 📋 Languages
+## 📋 Languages
   <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC ?style=flat-square&logo=C&logoColor=white"/> 
@@ -19,26 +19,26 @@
 
 <br/>  
   
-# 📚 Frameworks, Platforms and Libraries
+## 📚 Frameworks, Platforms and Libraries
   <br/>
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <br/>
   
-# 🎈 Hosting/SaaS
+## 🎈 Hosting/SaaS
   <br/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 <br/>
 
-# 💾 Databases
+## 💾 Databases
   <br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> 
 <br/>
 
-# 🪡 IDEs/Editors
+## 🪡 IDEs/Editors
 <br/>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
