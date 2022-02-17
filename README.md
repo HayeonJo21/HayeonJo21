@@ -8,14 +8,17 @@
 # 🛠 Tech Stack
 | category | stack |
 | ------ | ----------- |
-| 1주차 | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
-| 2주차 | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
-| 3주차 | TableView, CollectionView, 데이터 전달 방식 |
-| 4주차 | Cocoapods & Networking + 솝커톤 전 보충 세미나 |
-| 5주차 | 디자인 합동 세미나 |
-| 6주차 | 서버 합동 세미나 + 솝커톤  |
-| 7주차 | 클론 코딩을 통한 실전 UI 구성, Animation, 통신 보충  |
-| 8주차 | e기획 경선 + 앱잼 전 보충 세미나 + 앱스토어 배포 가이드  |
+| Languages | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC ?style=flat-square&logo=C&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+   |
+| Framewroks | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
+| Databases | TableView, CollectionView, 데이터 전달 방식 |
+| Saas | Cocoapods & Networking + 솝커톤 전 보충 세미나 |
+| IDEs/Editors | 디자인 합동 세미나 |
 
 <span>
 | category  | stacks  |
